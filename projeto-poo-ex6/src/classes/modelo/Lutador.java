@@ -1,10 +1,5 @@
 package classes.modelo;
 
-
-/**
- *
- * @author rodrigo
- */
 public class Lutador {
     //Atributos
     private String nome, nacionalidade, categoria;

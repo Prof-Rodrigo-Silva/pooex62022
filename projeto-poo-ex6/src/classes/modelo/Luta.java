@@ -2,10 +2,6 @@ package classes.modelo;
 
 import java.util.Random;
 
-/**
- *
- * @author rodrigo
- */
 public class Luta {
     //Atributos
     private Lutador desafiado;
